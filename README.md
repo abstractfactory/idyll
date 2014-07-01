@@ -1,4 +1,4 @@
 Idyll
 =====
 
-ideal pipeline description for feature animation
+ideal pipeline description for feature animation.
