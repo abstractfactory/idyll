@@ -14,6 +14,7 @@ Getting Started
     preconditions
     software
     privatepublic
+    assetmanagement
 
 
 
