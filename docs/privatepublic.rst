@@ -25,9 +25,9 @@ Workspaces are context-dependent directories in which artists save their work. E
 .. code-block:: bash
 
 	Peter
-		private
-			marcus
-				softwarex
-					myfiles.exe
+	  private
+	    marcus
+	      softwarex
+	        myfiles.exe
 
 As mentioned previously, Pipi is file-based and context-sensitive. Here, both users and software provide context in addition to the particular asset being worked upon which allows tools to be constructed with awareness of all three.
