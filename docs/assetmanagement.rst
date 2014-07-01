@@ -76,12 +76,12 @@ In this example, spiderman consists of 3 assets and 3 shots. Tagging is utilised
 	/spiderman  <-- Project
 	  assets
 	    Peter   <-- Asset
-	    Mary	<-- Asset
-	    Goblin	<-- Asset
+	    Mary    <-- Asset
+	    Goblin  <-- Asset
 	  shots
-	    1000   	<-- Shot
-	    2000	<-- Shot
-	    3000	<-- Shot
+	    1000    <-- Shot
+	    2000    <-- Shot
+	    3000    <-- Shot
 
 Tagging is performed via a library called cQuery[1]_
 
